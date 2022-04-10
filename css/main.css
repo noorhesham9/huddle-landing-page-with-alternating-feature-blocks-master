@@ -358,7 +358,8 @@ ul {
   padding-top: 80px;
   display: flex;
   justify-content: space-between;
-  margin-top: 55px;
+
+  padding-bottom: 50px;
 }
 
 
